@@ -148,6 +148,7 @@ git push -u upstream <your_branch_name>
 <p align="center">
 <img src="./assets/Readme_Assets/hakin_codes.png" width= "20%"/> 
 <img src="./assets/Readme_Assets/sci.jpg" width= "20%" />
+<img src="./assets/Readme_Assets/nwoc-logo.png" width="35%" />
 </p>
 
 ## Code of Conduct
